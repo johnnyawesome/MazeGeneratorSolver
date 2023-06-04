@@ -74,7 +74,7 @@ Once the optimal path is found, it will be highlighted (in yellow).
 
 There's a slider that lets you adjust the solving-speed.
 
-Interactively slow down or speed up the solving-algorithm.
+You can interactively slow down or speed up the solving-algorithm.
 
 ### Overlaying Paths
 
