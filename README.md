@@ -2,7 +2,7 @@
 
 Generates and solves a maze, using 3 different algorithms. Written in P5JS.
 
-![MazeGenerator](https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif)
+![MazeGeneratorSolver]([https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif](https://raw.githubusercontent.com/johnnyawesome/MazeGeneratorSolver/main/MazeGeneratorSolver/DemoImages/MazeGeneratorSolver.gif))
 
 ### Functions
 
@@ -32,7 +32,9 @@ To create a new maze, move or just click the slider at the bottom, and a new, ra
 
 You can solve the maze by clicking one of the maze-solver buttons.
 
-There are multiple algorithms available. 
+There are multiple algorithms available:
+
+![MazeGeneratorSolver]([https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif](https://raw.githubusercontent.com/johnnyawesome/MazeGeneratorSolver/main/MazeGeneratorSolver/DemoImages/MazeGeneratorSolver.gif))
 
 ### Multiple Algorithms
 
@@ -62,6 +64,12 @@ All these Algorithms have their own Advantages and disadvantages.
 - Is guaranteed to find the fastest path from start to finish
 - Can be very efficient
 - A* /A-Star is basically an extension of [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm). It uses [heuristics](https://en.wikipedia.org/wiki/Heuristic_(computer_science)) to guide it's search
+
+### The Optomal Path
+
+[🌬️Breadth First Search🌬️](https://en.wikipedia.org/wiki/Breadth-first_search) and [⭐A* / A-Star⭐](https://en.wikipedia.org/wiki/A*_search_algorithm) are guaranteed to find the optimal path through the maze.
+
+Once the optimal path is found, it will be highlighted (in yellow).
 
 ### Adjustable Solving-Speed
 
