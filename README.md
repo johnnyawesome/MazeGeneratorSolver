@@ -2,7 +2,7 @@
 
 Generates and solves a maze, using 3 different algorithms. Written in P5JS.
 
-![MazeGeneratorSolver]([https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif](https://raw.githubusercontent.com/johnnyawesome/MazeGeneratorSolver/main/MazeGeneratorSolver/DemoImages/MazeGeneratorSolver.gif))
+![MazeGeneratorSolver]([https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif](https://raw.githubusercontent.com/johnnyawesome/MazeGeneratorSolver/main/MazeGeneratorSolver/DemoImages/MazeGeneratorSolver.gif)
 
 ### Functions
 
