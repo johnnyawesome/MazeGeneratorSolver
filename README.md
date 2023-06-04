@@ -33,7 +33,7 @@ You can solve the maze by clicking one of the maze-solver buttons.
 
 There are multiple algorithms available:
 
-![MazeGeneratorSolver]([https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif](https://raw.githubusercontent.com/johnnyawesome/MazeGeneratorSolver/main/MazeGeneratorSolver/DemoImages/MazeGeneratorSolver.gif))
+![MazeGeneratorSolver](https://raw.githubusercontent.com/johnnyawesome/MazeGeneratorSolver/main/MazeGeneratorSolver/DemoImages/MazeGeneratorSolver.gif)
 
 ### Multiple Algorithms
 
