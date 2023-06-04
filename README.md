@@ -11,13 +11,12 @@ Generates a maze & solves it using one of three different algorithms. Written in
 - You can also set the speed, at which the Solving-Algorithm works
 
 ## MazeGenerator
-A interactive Maze-Generator using Depth-First-Search and recursive backtracking, written in P5JS.
-
-![MazeGenerator](https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif)
-
 
 This Maze-Generator uses [Depth-First-Search](https://en.wikipedia.org/wiki/Depth-first_search) and [recursive](https://en.wikipedia.org/wiki/Recursion_(computer_science)) backtracking to generate a Maze.
 You can find the entire Algorithm [here on Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_depth-first_search).
+
+![MazeGenerator](https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif)
+
 
 ### Interactive Maze-Generation
 
