@@ -62,7 +62,7 @@ All these Algorithms have their own Advantages and disadvantages.
 
 - Is guaranteed to find the fastest path from start to finish
 - Can be very efficient
-- A* /A-Star is basically an extension of [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm). It uses [heuristics](https://en.wikipedia.org/wiki/Heuristic_(computer_science)) to guide it's search
+- A* /A-Star is basically an extension of [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm). It uses [heuristics](https://en.wikipedia.org/wiki/Heuristic_(computer_science)) to guide it's search.
 
 ### The Optomal Path
 
